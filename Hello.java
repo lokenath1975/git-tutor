@@ -9,5 +9,6 @@ public class Hello{
     }
     public static int sqr(x){
         return x*x;
+        return x+x;
     }
 }
